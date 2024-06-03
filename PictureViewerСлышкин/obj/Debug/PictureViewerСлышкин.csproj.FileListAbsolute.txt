@@ -1,0 +1,9 @@
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\bin\Debug\PictureViewerСлышкин.exe.config
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\bin\Debug\PictureViewerСлышкин.exe
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\bin\Debug\PictureViewerСлышкин.pdb
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.Form1.resources
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.Properties.Resources.resources
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.csproj.GenerateResource.cache
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.csproj.CoreCompileInputs.cache
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.exe
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.pdb
