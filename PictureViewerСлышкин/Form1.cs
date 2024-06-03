@@ -35,7 +35,7 @@ namespace PictureViewerСлышкин
 
         private void clearButton_Click_1(object sender, EventArgs e)
         {
-
+            pictureBox1.Image = null;
         }
 
         private void closeButton_Click(object sender, EventArgs e)

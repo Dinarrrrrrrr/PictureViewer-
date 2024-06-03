@@ -7,3 +7,4 @@ C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлыш
 C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.csproj.CoreCompileInputs.cache
 C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.exe
 C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.pdb
+C:\Users\29395761\source\repos\PictureViewerСлышкин\PictureViewerСлышкин\obj\Debug\PictureViewerСлышкин.csproj.AssemblyReference.cache
